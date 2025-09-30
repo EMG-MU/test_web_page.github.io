@@ -1,8 +1,19 @@
-title: This is the title
-description: Description!
+# The title of your site
+title: WAPPAC Competition
+
+# The URL of your site
+url: https://emg-mu.github.io/test_web_page.github.io
+
+# The theme
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# Main navigation
+nav_pages:
+  - title: Home
+    permalink: /
+  - title: Competition Rules
+    permalink: /rules
 
+# Aux links (in the top right)
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  WAPPAC on GitHub: https://github.com/emg-mu/test_web_page.github.io
