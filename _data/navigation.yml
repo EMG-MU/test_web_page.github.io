@@ -1,0 +1,17 @@
+- title: Home
+  url: /
+- title: Quick Start
+  url: /quick-start/
+- title: Downloads
+  url: /downloads/
+- title: Examples
+  url: /examples/
+  children:
+    - title: Example Controller
+      url: /examples/#controller
+    - title: Sim Input
+      url: /examples/#sim-input
+- title: Submission
+  url: /submission/
+- title: Contact
+  url: /contact/
