@@ -4,4 +4,4 @@ layout: home
 permalink: /
 ---
 
-Welcome to the WAPPAC docs — example home page.
+Welcome to the WAPPAC documentation site.

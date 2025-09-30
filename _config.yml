@@ -1,16 +1,12 @@
-title: "WAPPAC Competition test hola"
+title: "WAPPAC Competition"
 description: "WavePiston Passive Control competition docs"
 theme: just-the-docs
 
-# For local preview keep url/baseurl empty. When deploying to GitHub Pages
-# under a repo (not user/org page) set baseurl: "/REPO_NAME"
+# Local preview:
 url: ""
 baseurl: ""
 
-# (optional) tell the theme where nav data is (not required but explicit)
-navigation: _data/navigation.yml
-
-# Exclude files that should not be part of the site build
+# Keep gemfile/Gemfile.lock out of the build
 exclude:
   - Gemfile
   - Gemfile.lock
