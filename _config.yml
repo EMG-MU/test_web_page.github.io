@@ -1,19 +1,8 @@
-# The title of your site
-title: WAPPAC Competition
-
-# The URL of your site
-url: https://emg-mu.github.io/test_web_page.github.io
-
-# The theme
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-# Main navigation
-nav_pages:
-  - title: Home
-    permalink: /
-  - title: Competition Rules
-    permalink: /rules
+url: https://just-the-docs.github.io
 
-# Aux links (in the top right)
 aux_links:
-  WAPPAC on GitHub: https://github.com/emg-mu/test_web_page.github.io
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
