@@ -1,8 +1,16 @@
-title: WAPPAC Competition
-description: Competition description goes here.
+title: "WAPPAC Competition test hola"
+description: "WavePiston Passive Control competition docs"
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# For local preview keep url/baseurl empty. When deploying to GitHub Pages
+# under a repo (not user/org page) set baseurl: "/REPO_NAME"
+url: ""
+baseurl: ""
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# (optional) tell the theme where nav data is (not required but explicit)
+navigation: _data/navigation.yml
+
+# Exclude files that should not be part of the site build
+exclude:
+  - Gemfile
+  - Gemfile.lock

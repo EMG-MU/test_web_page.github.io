@@ -1,0 +1,20 @@
+- title: Home
+  url: /
+
+- title: Quick Start
+  url: /quick-start/
+
+- title: About
+  url: /about/
+
+- title: Docs
+  url: /docs/
+  children:
+    - title: Overview
+      url: /docs/
+    - title: Installation
+      url: /docs/install/
+    - title: Usage
+      url: /docs/usage/
+    - title: API Reference
+      url: /docs/api/
